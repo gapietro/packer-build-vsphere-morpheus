@@ -3,11 +3,11 @@
 
 #WinRM Connection Detail
 winrm_username    = "Administrator"
-winrm_password    = "********"
+winrm_password    = "packer"
 
 #SSH Connection Detail
 ssh_username      = "root"
-ssh_password      = "**********"
+ssh_password      = "packer"
 
 # VMWare VCenter Details
 vcenter_server    = "<vcenter_server_ip>"
